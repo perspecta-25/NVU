@@ -3,6 +3,7 @@ include 'common/header_start.php';
 include 'common/header_end.php';
 ?>
 <img src="assets/variant-0.png" alt="Front page" width="100%" height="250">
+<!-- xvasd -->
 <!-- Page content-->
 <div class="container mt-5">
     <div class="row">
@@ -17,13 +18,10 @@ include 'common/header_end.php';
                 <div id="carouselExample" class="carousel slide">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/variant-0.png" class="d-block w-100" alt="...">
+                            <img src="assets/nvu_3366.png" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/d6c4951a6576e6eab9947cb1252b6c62.png" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="assets/d6c4951a6576e6eab9947cb1252b6c62.png" class="d-block w-100" alt="...">
+                            <img src="assets/nvu_8111.png" class="d-block w-100" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
