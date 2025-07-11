@@ -3,7 +3,7 @@ include 'common/header_start.php';
 include 'common/header_end.php';
 ?>
 <img src="assets/variant-0.png" alt="Front page" width="100%" height="250">
-<!-- xvasd -->
+
 <!-- Page content-->
 <div class="container mt-5">
     <div class="row">
