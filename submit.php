@@ -6,9 +6,9 @@ $message = $_POST['message'] ?? '';
 
 // 3. Connect to the database
 $host = 'localhost';
-$dbname = 'test_base';
-$user = 'root';
-$pass = '';
+$dbname = 'nvu_db';
+$user = 'nvu_u';
+$pass = 'Rk97J8KGeYeptND';
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 
