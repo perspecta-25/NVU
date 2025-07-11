@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 $host = 'localhost';
-$db   = 'your_database_name';
-$user = 'your_database_user';
-$pass = 'your_database_password';
+$db   = 'nvu_db';
+$user = 'nvu_u';
+$pass = 'Rk97J8KGeYeptND';
 
 // Connect to MySQL
 $conn = new mysqli($host, $user, $pass, $db);
